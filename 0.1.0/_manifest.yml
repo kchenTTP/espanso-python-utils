@@ -1,0 +1,7 @@
+name: "python-utils"
+title: "Python utilities package"
+description: A python code snippet package to reduce boilerplate code
+version: 0.1.0
+author: Kang Chen
+homepage: https://github.com/kchenTTP/espanso-python-utils.git
+tags: ["python"]
