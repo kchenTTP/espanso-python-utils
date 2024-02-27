@@ -2,6 +2,9 @@
 
 A python code snippet package for [Espanso](https://espanso.org/) to reduce boilerplate code.
 
+## Installation
+
+Make sure you have [Espanso](https://espanso.org/) installed first.
 
 ## Triggers
 
